@@ -54,10 +54,3 @@ The data flow between tasks is as follows:
 ## Purpose of this Airflow Pipeline:
 This Airflow pipeline is significant as it automates the workflow of fetching, processing, and storing user data. Such automation ensures that data is consistently updated, transformed, and stored without manual intervention. It's also scalable, allowing for more tasks or modifications in the future if needed.
 
----
-
-Feel free to contribute or raise any issues related to this Airflow pipeline. Your feedback is valuable!
-
-(Note: Make sure to modify the paths, database credentials, or any other sensitive data before deploying this in a production environment.)
-
----
